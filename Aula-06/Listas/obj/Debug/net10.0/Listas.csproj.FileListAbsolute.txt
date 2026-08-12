@@ -1,0 +1,15 @@
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/bin/Debug/net10.0/Listas
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/bin/Debug/net10.0/Listas.deps.json
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/bin/Debug/net10.0/Listas.runtimeconfig.json
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/bin/Debug/net10.0/Listas.dll
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/bin/Debug/net10.0/Listas.pdb
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.AssemblyInfoInputs.cache
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.AssemblyInfo.cs
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.csproj.CoreCompileInputs.cache
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.sourcelink.json
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.dll
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/refint/Listas.dll
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.pdb
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/Listas.genruntimeconfig.cache
+/Users/ds1/2026-I2DS/I2DS/2026-I2DS/Aula-06/Listas/obj/Debug/net10.0/ref/Listas.dll
