@@ -1,0 +1,15 @@
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.AssemblyInfoInputs.cache
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.AssemblyInfo.cs
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.csproj.CoreCompileInputs.cache
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.sourcelink.json
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\bin\Debug\net10.0\Exercicio-01.exe
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\bin\Debug\net10.0\Exercicio-01.deps.json
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\bin\Debug\net10.0\Exercicio-01.runtimeconfig.json
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\bin\Debug\net10.0\Exercicio-01.dll
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\bin\Debug\net10.0\Exercicio-01.pdb
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.dll
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\refint\Exercicio-01.dll
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.pdb
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\Exercicio-01.genruntimeconfig.cache
+C:\Users\53605817866\2026-I2D2\Exercicios-Da-Segunda\Exercicio-01\obj\Debug\net10.0\ref\Exercicio-01.dll
